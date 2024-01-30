@@ -63,10 +63,10 @@ created=0
 failed=0
 os.system('clear')
 print('')
-own_id = Mody.OWNER
+own_id = '5339964426'
 os.system('clear')
 print('')
-tele_bot=Mody.ELHYBA
+tele_bot='6815135860:AAHs1jM3H42h26hquibI6UM22uzf0ah5YKk'
 ch='qw-er.4684t-yuio.wu-684.plkj.hg-f698.5dsaz.xcvbn.m123-4shdyj5.6-789lh.fam0'
 def create():
 	global created
